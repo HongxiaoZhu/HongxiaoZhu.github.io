@@ -1,0 +1,14 @@
+@article{10.1371/journal.pone.0280631,
+    doi = {10.1371/journal.pone.0280631},
+    author = {Zhu, Hongxiao AND Gupta, Anupam Kumar AND Wu, Xiaowei AND Goldsworthy, Michael AND Wang, Ruihao AND Mikkilineni, Mohitha AND Müller, Rolf},
+    journal = {PLOS ONE},
+    publisher = {Public Library of Science},
+    title = {A validation study for a bat-inspired sonar sensing simulator},
+    year = {2023},
+    month = {01},
+    volume = {18},
+    url = {https://doi.org/10.1371/journal.pone.0280631},
+    pages = {1-14},
+    abstract = {Many species of bats rely on echoes to forage and navigate in densely vegetated environments. Foliage echoes in some cases can help bats gather information about the environment, whereas in others may generate clutter that can mask prey echoes during foraging. It is therefore important to study foliage echoes and their role in bat’s sensory ecology. In our prior work, a foliage echo simulator has been developed; simulated echoes has been compared with field recordings using a biomimetic sonar head. In this work, we improve the existing simulator by allowing more flexible experimental setups and enabling a closer match with the experiments. Specifically, we add additional features into the simulator including separate directivity patterns for emitter and receiver, the ability to place emitter and receiver at distinct locations, and multiple options to orient the foliage to mimic natural conditions like strong wind. To study how accurately the simulator can replicate the real echo-generating process, we compare simulated echoes with experimental echoes measured by ensonifying a single leaf across four different species of trees. We further extend the prior work on estimating foliage parameters to estimating a map of the environment.},
+    number = {1}
+}

@@ -1,0 +1,13 @@
+@article{LU2023111467,
+title = {Estimating mutation rates in a Markov branching process using approximate Bayesian computation},
+journal = {Journal of Theoretical Biology},
+volume = {565},
+pages = {111467},
+year = {2023},
+issn = {0022-5193},
+doi = {https://doi.org/10.1016/j.jtbi.2023.111467},
+url = {https://www.sciencedirect.com/science/article/pii/S0022519323000632},
+author = {Ruijin Lu and Hongxiao Zhu and Xiaowei Wu},
+keywords = {Markov branching process, Fluctuation analysis, Approximate Bayesian computation, Gaussian process surrogate},
+abstract = {Estimating microbial mutation rates is an essential task in evolutionary biology, with wide range applications in related fields such as virology, epidemiology, clinic and public health, and antibiotic research. Significant progress has been made on this research since 1943 when Luria–Delbrück fluctuation analysis was first introduced. However, existing estimators of mutation rates are heavily reliant on model assumptions in fluctuation analysis, and become less applicable to real microbial experiments which deviate from the model assumptions. To overcome this difficulty, we propose to model fluctuation experimental data by a two-type Markov branching process (MBP) and use approximate Bayesian computation (ABC) to estimate the mutation probability parameters. Such an ABC-based mutation rate estimator is based on intensive simulations from the mutation process, thereby taking advantage of modern computing power. Most importantly, its likelihood-free feature allows more complex and realistic setups of the mutation process, especially when the distribution of the number of mutants cannot be easily derived. To further improve computation efficiency, we use a Gaussian process surrogate to substitute the simulator in the ABC algorithm, and call the resulting estimator GPS-ABC. Simulation studies show that, when used to estimate constant mutation rate in MBP, ABC-based estimators generally outperform traditional moment or likelihood-based estimators. When mutations occur in two stages, i.e., in MBP with a piece-wise constant mutation rate function, traditional mutation rate estimators become not applicable, yet GPS-ABC still achieves reasonable estimates. Finally, the proposed GPS-ABC estimator is used to analyze real fluctuation experimental datasets for studying drug resistance.}
+}
