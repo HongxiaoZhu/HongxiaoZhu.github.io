@@ -1,0 +1,28 @@
+@article{Promi2025_chemmater,
+author = {Promi, Anika Tabassum and Lee, Jaeyoung and Meyer, Katelyn and Xia, Dawei and Shi, Chenguang and Yang, Yang and Kiss, Andrew M. and Li, Luxi and Sun, Chengjun and Nordlund, Dennis and Michel, F. Marc and Zhu, Hongxiao and Lin, Feng},
+title = {Spatiotemporal and Statistical Mapping of Transition Metal Equilibria in Alkaline Media},
+journal = {Chemistry of Materials},
+volume = {0},
+number = {0},
+pages = {null},
+year = {0},
+doi = {10.1021/acs.chemmater.5c02732},
+
+URL = { 
+    
+        https://doi.org/10.1021/acs.chemmater.5c02732
+    
+    
+
+},
+eprint = { 
+    
+        https://doi.org/10.1021/acs.chemmater.5c02732
+    
+    
+
+}
+
+}
+
+

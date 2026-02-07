@@ -1,0 +1,9 @@
+@misc{ren2024semi,
+  author       = {Benny Ren and Ian Barnett and Haochang Shou and Jeremy Rubin and Hongxiao Zhu and Terry Conway and Kelli Cain and Brian Saelens and Karen Glanz and James Sallis and Jeffrey S. Morris},
+  title        = {Semiparametric Quantile Functional Regression Analysis of Adolescent Physical Activity Distributions in the Presence of Missing Data},
+  year         = {2024},
+  eprint       = {2411.12585},
+  archivePrefix= {arXiv},
+  primaryClass = {stat.ME},
+  url          = {https://arxiv.org/abs/2411.12585}
+}

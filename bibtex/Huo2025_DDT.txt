@@ -1,0 +1,16 @@
+@Article{Huo2025_math,
+AUTHOR = {Huo, Shuning and Zhu, Hongxiao},
+TITLE = {Learning Data Heterogeneity with Dirichlet Diffusion Trees},
+JOURNAL = {Mathematics},
+VOLUME = {13},
+YEAR = {2025},
+NUMBER = {16},
+ARTICLE-NUMBER = {2568},
+URL = {https://www.mdpi.com/2227-7390/13/16/2568},
+ISSN = {2227-7390},
+ABSTRACT = {Characterizing complex heterogeneous structures in high-dimensional data remains a significant challenge. Traditional approaches often rely on summary statistics such as histograms, skewness, or kurtosis, which—despite their simplicity—are insufficient for capturing nuanced patterns of heterogeneity. Motivated by a brain tumor study, we consider data in the form of point clouds, where each observation consists of a variable number of points. Our goal is to detect differences in the heterogeneity structures across distinct groups of observations. To this end, we employ the Dirichlet Diffusion Tree (DDT) to characterize the latent heterogeneity structure of each observation. We further extend the DDT framework by introducing a regression component that links covariates to the hyperparameters of the latent trees. We develop a Markov chain Monte Carlo algorithm for posterior inference, which alternatively updates the latent tree structures and the regression coefficients. The effectiveness of our proposed method is evaluated by a simulation study and a real-world application in brain tumor imaging.},
+DOI = {10.3390/math13162568}
+}
+
+
+

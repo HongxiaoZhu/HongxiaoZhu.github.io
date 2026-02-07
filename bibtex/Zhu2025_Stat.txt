@@ -1,0 +1,16 @@
+@article{Zhu2025Stat,
+author = {Zhu, Hongxiao and Sun, Yizhi and Lee, Jaeyoung},
+title = {Bayesian Functional Region Selection},
+journal = {Stat},
+volume = {14},
+number = {1},
+pages = {e70047},
+keywords = {Bayesian variable selection, functional data, functional regression, region selection},
+doi = {https://doi.org/10.1002/sta4.70047},
+url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/sta4.70047},
+eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1002/sta4.70047},
+note = {e70047 sta4.70047},
+abstract = {ABSTRACT Local regions on curves, images and other high-dimensional objects often contain critical information for interpretation, prediction and decision-making. Therefore, detecting local regions on functional data that are relevant to a variable of interest is highly desirable. We propose a Bayesian method for functional regression to select local regions on functional predictors that are relevant to a scalar response. The region selection is achieved through sparse estimation of the regression coefficient function. We adopt compactly supported and overcomplete basis to capture local features of the coefficient function and propose a spike-and-slab prior coupled with a structured Ising hyper-prior to encourage continuous shrinkage of nearby regions. Our proposed Bayesian framework accommodates both continuous and binary responses, resulting in posterior inference that naturally captures the uncertainty of the model parameters.},
+year = {2025}
+}
+
